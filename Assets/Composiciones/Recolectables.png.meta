@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 9c82916f9f0be8d43a71238c0cfce635
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3316694065906725832
+    second: Recolectables_0
+  - first:
+      213: -8876487607432615975
+    second: Recolectables_1
+  - first:
+      213: -4623835211702987463
+    second: Recolectables_2
+  - first:
+      213: -159557866313957845
+    second: Recolectables_3
+  - first:
+      213: -5221621310011651091
+    second: Recolectables_4
+  - first:
+      213: 3423935067831184887
+    second: Recolectables_5
+  - first:
+      213: 7759175431004757760
+    second: Recolectables_6
+  - first:
+      213: -8229228396370663932
+    second: Recolectables_7
+  - first:
+      213: 7258559569607137587
+    second: Recolectables_8
+  - first:
+      213: 7605900398923531438
+    second: Recolectables_9
+  - first:
+      213: -9032673170799891997
+    second: Recolectables_10
+  - first:
+      213: 2401454114267171117
+    second: Recolectables_11
+  - first:
+      213: -5394354946688468761
+    second: Recolectables_12
+  - first:
+      213: -3196268713434267713
+    second: Recolectables_13
+  - first:
+      213: 4941096104999539063
+    second: Recolectables_14
+  - first:
+      213: 4641614492081429666
+    second: Recolectables_15
+  - first:
+      213: 215266460576218114
+    second: Recolectables_16
+  - first:
+      213: 5197670296051074534
+    second: Recolectables_17
+  - first:
+      213: 6220608659231678899
+    second: Recolectables_18
+  - first:
+      213: -4390505467544653923
+    second: Recolectables_19
+  - first:
+      213: 4952761242751849658
+    second: Recolectables_20
+  - first:
+      213: 3018489476309449910
+    second: Recolectables_21
+  - first:
+      213: -5905606296914027943
+    second: Recolectables_22
+  - first:
+      213: -8017533309853578848
+    second: Recolectables_23
+  - first:
+      213: -6757590398771999507
+    second: Recolectables_24
+  - first:
+      213: -7669856557697930612
+    second: Recolectables_25
+  - first:
+      213: -4273797792781734657
+    second: Recolectables_26
+  - first:
+      213: -6500372149665246057
+    second: Recolectables_27
+  - first:
+      213: 180334450257512170
+    second: Recolectables_28
+  - first:
+      213: -1251715182335085284
+    second: Recolectables_29
+  - first:
+      213: -2293489036497418279
+    second: Recolectables_30
+  - first:
+      213: 3339729288717292774
+    second: Recolectables_31
+  - first:
+      213: -1345647728140142045
+    second: Recolectables_32
+  - first:
+      213: -7175868053865057000
+    second: Recolectables_33
+  - first:
+      213: -2237659423889513070
+    second: Recolectables_34
+  - first:
+      213: 2533333361671540412
+    second: Recolectables_35
+  - first:
+      213: -153206471820353337
+    second: Recolectables_36
+  - first:
+      213: -1169829619811802236
+    second: Recolectables_37
+  - first:
+      213: 5520918494081130850
+    second: Recolectables_38
+  - first:
+      213: 2678787759918333958
+    second: Recolectables_39
+  - first:
+      213: -7787380854751289937
+    second: Recolectables_40
+  - first:
+      213: 2316200874898220172
+    second: Recolectables_41
+  - first:
+      213: -1886027329846122549
+    second: Recolectables_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recolectables_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4415
+        width: 287
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ccbf4d15cb8f1d0800000000000000
+      internalID: -3316694065906725832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 4704
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d762d9fc8160d480800000000000000
+      internalID: -8876487607432615975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4400
+        width: 299
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93510828f56d4dfb0800000000000000
+      internalID: -4623835211702987463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_3
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 4346
+        width: 284
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ebc3947f229cdf0800000000000000
+      internalID: -159557866313957845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_4
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 4384
+        width: 268
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb452975131987b0800000000000000
+      internalID: -5221621310011651091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4685
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fda41cadc2448f20800000000000000
+      internalID: 3423935067831184887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4692
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f1af2d1f02eab60800000000000000
+      internalID: 7759175431004757760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 4678
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406e4c2bf58ebcd80800000000000000
+      internalID: -8229228396370663932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4552
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339127798759bb460800000000000000
+      internalID: 7258559569607137587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3893
+        width: 225
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4c6d27d169d8960800000000000000
+      internalID: 7605900398923531438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3848
+        width: 361
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9654abb9f75a280800000000000000
+      internalID: -9032673170799891997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_11
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 3848
+        width: 305
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d298b412bcda35120800000000000000
+      internalID: 2401454114267171117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_12
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 3836
+        width: 393
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8334aa1c66325b0800000000000000
+      internalID: -5394354946688468761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3321
+        width: 305
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf3e092a8294a3d0800000000000000
+      internalID: -3196268713434267713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 3301
+        width: 321
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771509b7abc429440800000000000000
+      internalID: 4941096104999539063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_15
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 3321
+        width: 207
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac91d8c9c35a6040800000000000000
+      internalID: 4641614492081429666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_16
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 3539
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c73b294b7ccf200800000000000000
+      internalID: 215266460576218114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_17
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 3337
+        width: 389
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e549b78895d12840800000000000000
+      internalID: 5197670296051074534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2738
+        width: 342
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1293c0e9a045650800000000000000
+      internalID: 6220608659231678899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_19
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2759
+        width: 309
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f27960a8ac113c0800000000000000
+      internalID: -4390505467544653923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_20
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 3166
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4db830c1ebbb440800000000000000
+      internalID: 4952761242751849658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_21
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2802
+        width: 408
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfda1af24d3e920800000000000000
+      internalID: 3018489476309449910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_22
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 2840
+        width: 393
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a1129bc521b0ea0800000000000000
+      internalID: -5905606296914027943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2250
+        width: 389
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c053feeffbb090800000000000000
+      internalID: -8017533309853578848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_24
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2215
+        width: 279
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decca97e5573832a0800000000000000
+      internalID: -6757590398771999507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_25
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 2250
+        width: 266
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae630f8123f8590800000000000000
+      internalID: -7669856557697930612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_26
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2299
+        width: 232
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc656f0d8b60b4c0800000000000000
+      internalID: -4273797792781734657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1741
+        width: 268
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7945c5768f90ac5a0800000000000000
+      internalID: -6500372149665246057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_28
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1700
+        width: 284
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64d502a3da08200800000000000000
+      internalID: 180334450257512170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_29
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1761
+        width: 355
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1534fc6ca301aee0800000000000000
+      internalID: -1251715182335085284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_30
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1799
+        width: 225
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7815b6fd3eb20e0800000000000000
+      internalID: -2293489036497418279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1161
+        width: 384
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e456fbe71a195e20800000000000000
+      internalID: 3339729288717292774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1216
+        width: 434
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a3563558c435de0800000000000000
+      internalID: -1345647728140142045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_33
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1455
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815bc4e36023a6c90800000000000000
+      internalID: -7175868053865057000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_34
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1185
+        width: 410
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295a2ce0c9c32f0e0800000000000000
+      internalID: -2237659423889513070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_35
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1197
+        width: 287
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe04103545382320800000000000000
+      internalID: 2533333361671540412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_36
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1181
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06bdd8683bfddf0800000000000000
+      internalID: -153206471820353337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 651
+        width: 343
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832367a82ee3cfe0800000000000000
+      internalID: -1169829619811802236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_38
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 636
+        width: 284
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26127998e1e3e9c40800000000000000
+      internalID: 5520918494081130850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_39
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 636
+        width: 402
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600c89a5647fc2520800000000000000
+      internalID: 2678787759918333958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_40
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 677
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad1fd53f5aade390800000000000000
+      internalID: -7787380854751289937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_41
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 636
+        width: 299
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84e1c88c6cc42020800000000000000
+      internalID: 2316200874898220172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recolectables_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 129
+        width: 352
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e7d7d22c73d5e0800000000000000
+      internalID: -1886027329846122549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Recolectables_0: -3316694065906725832
+      Recolectables_1: -8876487607432615975
+      Recolectables_10: -9032673170799891997
+      Recolectables_11: 2401454114267171117
+      Recolectables_12: -5394354946688468761
+      Recolectables_13: -3196268713434267713
+      Recolectables_14: 4941096104999539063
+      Recolectables_15: 4641614492081429666
+      Recolectables_16: 215266460576218114
+      Recolectables_17: 5197670296051074534
+      Recolectables_18: 6220608659231678899
+      Recolectables_19: -4390505467544653923
+      Recolectables_2: -4623835211702987463
+      Recolectables_20: 4952761242751849658
+      Recolectables_21: 3018489476309449910
+      Recolectables_22: -5905606296914027943
+      Recolectables_23: -8017533309853578848
+      Recolectables_24: -6757590398771999507
+      Recolectables_25: -7669856557697930612
+      Recolectables_26: -4273797792781734657
+      Recolectables_27: -6500372149665246057
+      Recolectables_28: 180334450257512170
+      Recolectables_29: -1251715182335085284
+      Recolectables_3: -159557866313957845
+      Recolectables_30: -2293489036497418279
+      Recolectables_31: 3339729288717292774
+      Recolectables_32: -1345647728140142045
+      Recolectables_33: -7175868053865057000
+      Recolectables_34: -2237659423889513070
+      Recolectables_35: 2533333361671540412
+      Recolectables_36: -153206471820353337
+      Recolectables_37: -1169829619811802236
+      Recolectables_38: 5520918494081130850
+      Recolectables_39: 2678787759918333958
+      Recolectables_4: -5221621310011651091
+      Recolectables_40: -7787380854751289937
+      Recolectables_41: 2316200874898220172
+      Recolectables_42: -1886027329846122549
+      Recolectables_5: 3423935067831184887
+      Recolectables_6: 7759175431004757760
+      Recolectables_7: -8229228396370663932
+      Recolectables_8: 7258559569607137587
+      Recolectables_9: 7605900398923531438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
